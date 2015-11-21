@@ -12,3 +12,17 @@ body {
 	height:100vh;
 }
 
+#banner{
+	height:150px;
+	background: white;
+	width: 100%;
+}
+
+#socialMediaDeck{
+	width: 75px;
+	height:200px;
+	background:black;
+	position: fixed;
+	top: 150px;
+	left: 0px;
+}
